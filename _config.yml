@@ -1,7 +1,8 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "The CyberOps Guy"
+description: "Keeping your systems secure and your pipelines flowing"
+email: biswasrahul016@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'

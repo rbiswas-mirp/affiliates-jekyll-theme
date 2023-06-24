@@ -1,7 +1,7 @@
 title: "The CyberOps Guy"
 description: "Keeping your systems secure and your pipelines flowing"
 email: biswasrahul016@gmail.com
-timezone: UTC
+timezone: Asia/Kolkata
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
